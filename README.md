@@ -1,4 +1,4 @@
-# Car Racing game in C language
+# Typing Game In C Language
 
 # Youtube Demo
 
